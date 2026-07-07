@@ -18,7 +18,6 @@ The project utilizes a modern analytics architecture to ensure seamless data flo
 *Below is the screenshot of the interactive Sales & Customers Report:*
 
 ![Shopify Sales Dashboard](image_6ad275.png) 
-*(Note: Replace 'image_6ad275.png' with your actual screenshot filename after uploading it to GitHub)*
 
 ---
 
